@@ -2,10 +2,6 @@
 Digital Music Platform "Mood"
 
 
-# Mood
-I wrote it using the landing page ("HTML5,CSS3,JS,Bootstrap) of a music service application called "Mood".
-
-
 ### Tecnologias utilizadas 
 - HTML5
 - CSS3

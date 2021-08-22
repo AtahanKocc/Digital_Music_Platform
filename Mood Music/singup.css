@@ -1,0 +1,28 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background: url("https://images.unsplash.com/photo-1468164016595-6108e4c60c8b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80");
+    background-size:cover;
+    -webkit-background-size: cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    font-family: sans-serif;
+}
+  
+.card-registration .select-input.form-control[readonly]:not([disabled]) {
+    font-size: 1rem;
+    line-height: 2.15;
+    padding-left: .75em;
+    padding-right: .75em;
+}
+.card-registration .select-arrow {
+    top: 13px;
+}
+
+#remember{
+    font-size: 14px;
+    font-family: sans-serif;
+}  
+#birthdayDate{
+    font-size: 14px;
+}
